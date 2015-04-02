@@ -1,5 +1,6 @@
 /**
 * Author: austynmahoney (https://github.com/austynmahoney)
+* EDIT: Dennis Fricke (https://github.com/frisch12)
 */
 var selectedExportOptions = {};
 
